@@ -1,0 +1,3 @@
+DELETE http://localhost:3000/api/artistas/c7817a17-963d-4752-a476-fe210d7969f7
+//Content-Type: application/json
+
